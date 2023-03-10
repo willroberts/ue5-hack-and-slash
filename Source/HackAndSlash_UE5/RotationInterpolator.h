@@ -10,7 +10,7 @@
  * URotationInterpolator provides a Blueprint-accessible way to interpolate the Player's rotation.
  */
 UCLASS()
-class HACKANDSLASH_UE4_API URotationInterpolator : public UBlueprintFunctionLibrary
+class HACKANDSLASH_UE5_API URotationInterpolator : public UBlueprintFunctionLibrary
 {
 	GENERATED_BODY()
 
