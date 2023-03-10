@@ -14,8 +14,15 @@ Saved
 *.xcworkspace
 
 # Ignore third-party Content
+Content/__ExternalActors__
+Content/__ExternalObjects__
+Content/Characters
+Content/Collections
+Content/Developers
+Content/LevelPrototyping
 Content/ParagonMinions
 Content/ParagonMuriel
 Content/ParagonRevenant
 Content/SoulCave
 Content/StarterContent
+Content/ThirdPerson
